@@ -42,7 +42,7 @@ app.get('/date', async (req, res) => {
 })
 
 app.get('/rsrs', (req, res) => {
-    res.send('te amo vidica ><');
+    res.send('te amo vidica ><');  //for my luv
 })
 
 
