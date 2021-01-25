@@ -11,18 +11,34 @@ app.get('/:month/:day', async (req, res) => {
     let month = req.params.month;
     let day = req.params.day;
 
-    const data = require(`./db/events/${month}/${day}.json`);
+    const events = require(`./db/events/${month}/${day}.json`);
+    const births = require(`./db/births/${month}/${day}.json`);
+    const deaths = require(`./db/deaths/${month}/${day}.json`);
 
-    res.send(data);
+    let obj = {
+        events, 
+        births, 
+        deaths
+    }
+
+    res.send(obj);
 })
 
 app.get('/date', async (req, res) => {
     let month = date.getMonth() + 1;
     let day = date.getDate();
 
-    const data = require(`./db/events/${month}/${day}.json`);
+    const events = require(`./db/events/${month}/${day}.json`);
+    const births = require(`./db/births/${month}/${day}.json`);
+    const deaths = require(`./db/deaths/${month}/${day}.json`);
 
-    res.send(data);
+    let obj = {
+        events, 
+        births, 
+        deaths
+    }
+
+    res.send(obj);
 })
 
 
