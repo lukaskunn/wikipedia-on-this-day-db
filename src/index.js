@@ -41,5 +41,9 @@ app.get('/date', async (req, res) => {
     res.send(obj);
 })
 
+app.get('/rsrs', (req, res) => {
+    res.send('te amo vidica ><');
+})
+
 
 app.listen(port, () => console.log(`Example app listening on http://localhost:${port}!`))
