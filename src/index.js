@@ -16,9 +16,9 @@ app.get('/:month/:day', async (req, res) => {
     const deaths = require(`./db/deaths/${month}/${day}.json`);
 
     let obj = {
-        events, 
-        births, 
-        deaths
+        events: events.events, 
+        births: births.births, 
+        deaths: deaths.deaths
     }
 
     res.send(obj);
@@ -33,9 +33,9 @@ app.get('/date', async (req, res) => {
     const deaths = require(`./db/deaths/${month}/${day}.json`);
 
     let obj = {
-        events, 
-        births, 
-        deaths
+        events: events.events, 
+        births: births.births, 
+        deaths: deaths.deaths
     }
 
     res.send(obj);
