@@ -1,6 +1,5 @@
 const fs = require('fs');
 const path = require('path')
-const axios = require('axios');
 var Scraper = require('images-scraper');
 
 const date = {
@@ -64,60 +63,88 @@ async function getData() {
 
     for (let i = 1; i < 13; i++) {
         for (let j = 1; j < date[i] + 1; j++) {
-            await axios.get(`https://byabbe.se/on-this-day/${i}/${j}/events.json`)
-                .then(async function (response) {
-                    for (const item of response.data.events) {
-                        if (item.wikipedia.length >= 1) {
-                            const results = await google.scrape(`${item.wikipedia[0].title}`, 200)
-                            item.url_image = results[0].url;
-                            console.log(item.url_image);
+            fs.readFile(__dirname + `/db/events/${i}/${j}.json`, 'utf8', function (err, response) {
+                if (err) {
+                    return console.log(err);
+                }
+                for (const item of response.data.events) {
+                    if (item.url_image == "" || item.url_image == undefined) {
+                        if (item.wikipedia.length > 0) {
+                            try {
+                                let results = await google.scrape(`${item.wikipedia[0].title}`, 200)
+                                item.url_image = results[0].url;
+
+                                fs.writeFile(`src/db/events/${i}/${j}.json`, JSON.stringify(response.data, null, 4), (err) => {
+                                    if (err) console.log(err);
+                                })
+                            }
+                            catch {
+                                (err) => {
+                                    console.log(err);
+                                }
+                            }
                         }
                         else {
                             item.url_image = ""
                         }
                     }
+                }
+            })
+            fs.readFile(__dirname + `/db/births/${i}/${j}.json`, 'utf8', function (err, response) {
+                if (err) {
+                    return console.log(err);
+                }
+                for (const item of response.data.events) {
+                    if (item.url_image == "" || item.url_image == undefined) {
+                        if (item.wikipedia.length > 0) {
+                            try {
+                                let results = await google.scrape(`${item.wikipedia[0].title}`, 200)
+                                item.url_image = results[0].url;
 
-                    fs.writeFile(`src/db/events/${i}/${j}.json`, JSON.stringify(response.data, null, 4), (err) => {
-                        if (err) console.log(err);
-                    })
-                })
-
-            await axios.get(`https://byabbe.se/on-this-day/${i}/${j}/births.json`)
-                .then(async function (response) {
-                    for (const item of response.data.births) {
-                        if (item.wikipedia.length >= 1) {
-                            const results = await google.scrape(`${item.wikipedia[0].title}`, 200)
-                            item.url_image = results[0].url;
-                            console.log(item.url_image);
+                                fs.writeFile(`src/db/events/${i}/${j}.json`, JSON.stringify(response.data, null, 4), (err) => {
+                                    if (err) console.log(err);
+                                })
+                            }
+                            catch {
+                                (err) => {
+                                    console.log(err);
+                                }
+                            }
                         }
                         else {
                             item.url_image = ""
                         }
                     }
+                }
+            })
 
-                    fs.writeFile(`src/db/births/${i}/${j}.json`, JSON.stringify(response.data, null, 4), (err) => {
-                        if (err) console.log(err);
-                    })
-                })
+            fs.readFile(__dirname + `/db/deaths/${i}/${j}.json`, 'utf8', function (err, response) {
+                if (err) {
+                    return console.log(err);
+                }
+                for (const item of response.data.events) {
+                    if (item.url_image == "" || item.url_image == undefined) {
+                        if (item.wikipedia.length > 0) {
+                            try {
+                                let results = await google.scrape(`${item.wikipedia[0].title}`, 200)
+                                item.url_image = results[0].url;
 
-            await axios.get(`https://byabbe.se/on-this-day/${i}/${j}/deaths.json`)
-                .then(async function (response) {
-                    for (const item of response.data.deaths) {
-                        if (item.wikipedia.length >= 1) {
-                            const results = await google.scrape(`${item.wikipedia[0].title}`, 200)
-                            item.url_image = results[0].url;
-                            console.log(item.url_image);
+                                fs.writeFile(`src/db/events/${i}/${j}.json`, JSON.stringify(response.data, null, 4), (err) => {
+                                    if (err) console.log(err);
+                                })
+                            }
+                            catch {
+                                (err) => {
+                                    console.log(err);
+                                }
+                            }
                         }
                         else {
                             item.url_image = ""
                         }
-
                     }
-
-                    fs.writeFile(`src/db/deaths/${i}/${j}.json`, JSON.stringify(response.data, null, 4), (err) => {
-                        if (err) console.log(err);
-                    })
-                })
+                }
+            })
         }
 
     }
