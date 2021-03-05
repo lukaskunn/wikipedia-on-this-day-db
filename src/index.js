@@ -1,5 +1,7 @@
 const express = require('express')
 const fs = require('fs');
+const Scraper = require('images-scraper');
+const util = require('util')
 
 const app = express()
 const port = process.env.PORT || 3000
@@ -8,89 +10,94 @@ const date = new Date();
 
 app.get('/', (req, res) => res.send('Hello World!'))
 
-app.get('/create', (req, res) => {
+app.get('/create', async (req, res) => {
+    const google = new Scraper({
+        puppeteer: {
+            headless: true,
+        }
+    });
+
+    const readFile = util.promisify(fs.readFile);
+
     for (let i = 1; i < 13; i++) {
         for (let j = 1; j < date[i] + 1; j++) {
-            await axios.get(`https://byabbe.se/on-this-day/${i}/${j}/events.json`)
-                .then(async function (response) {
-                    for (const item of response.data.events) {
-                        if (item.url_image == "" || item.url_image == undefined) {
-                            if (item.wikipedia.length > 0) {
-                                try {
-                                    let results = await google.scrape(`${item.wikipedia[0].title}`, 200)
-                                    item.url_image = results[0].url;
+            const response = readFile(__dirname + `/db/events/${i}/${j}.json`)
+            console.log('passou eventos')
+            for (const item of response.data.events) {
+                if (item.url_image == "" || item.url_image == undefined) {
+                    if (item.wikipedia.length > 0) {
+                        try {
+                            let results = await google.scrape(`${item.wikipedia[0].title}`, 200)
+                            item.url_image = results[0].url;
 
-                                    fs.writeFile(`src/db/events/${i}/${j}.json`, JSON.stringify(response.data, null, 4), (err) => {
-                                        if (err) console.log(err);
-                                    })
-                                }
-                                catch {
-                                    (err) => {
-                                        console.log(err);
-                                    }
-                                }
-                            }
-                            else {
-                                item.url_image = ""
+                            fs.writeFile(`src/db/events/${i}/${j}.json`, JSON.stringify(response.data, null, 4), (err) => {
+                                if (err) console.log(err);
+                            })
+                        }
+                        catch {
+                            (err) => {
+                                console.log(err);
                             }
                         }
                     }
-                })
+                    else {
+                        item.url_image = ""
+                    }
+                }
+            }
+        }
 
-            await axios.get(`https://byabbe.se/on-this-day/${i}/${j}/births.json`)
-                .then(async function (response) {
-                    for (const item of response.data.births) {
-                        if (item.url_image == "" || item.url_image == undefined) {
-                            if (item.wikipedia.length >= 1) {
-                                try {
-                                    let results = await google.scrape(`${item.wikipedia[0].title}`, 200)
-                                    item.url_image = results[0].url;
+        const response = readFile(__dirname + `/db/births/${i}/${j}.json`)
+        console.log('passou births')
+        for (const item of response.data.events) {
+            if (item.url_image == "" || item.url_image == undefined) {
+                if (item.wikipedia.length > 0) {
+                    try {
+                        let results = await google.scrape(`${item.wikipedia[0].title}`, 200)
+                        item.url_image = results[0].url;
 
-                                    fs.writeFile(`src/db/births/${i}/${j}.json`, JSON.stringify(response.data, null, 4), (err) => {
-                                        if (err) console.log(err);
-                                    })
-                                }
-                                catch {
-                                    (err) => {
-                                        console.log(err);
-                                    }
-                                }
-                            }
-                            else {
-                                item.url_image = ""
-                            }
+                        fs.writeFile(`src/db/births/${i}/${j}.json`, JSON.stringify(response.data, null, 4), (err) => {
+                            if (err) console.log(err);
+                        })
+                    }
+                    catch {
+                        (err) => {
+                            console.log(err);
                         }
                     }
-                })
-
-            await axios.get(`https://byabbe.se/on-this-day/${i}/${j}/deaths.json`)
-                .then(async function (response) {
-                    for (const item of response.data.deaths) {
-                        if (item.url_image == "" || item.url_image == undefined) {
-                            if (item.wikipedia.length >= 1) {
-                                try {
-                                    let results = await google.scrape(`${item.wikipedia[0].title}`, 200)
-                                    item.url_image = results[0].url;
-
-                                    fs.writeFile(`src/db/deaths/${i}/${j}.json`, JSON.stringify(response.data, null, 4), (err) => {
-                                        if (err) console.log(err);
-                                    })
-                                }
-                                catch {
-                                    (err) => {
-                                        console.log(err);
-                                    }
-                                }
-                            }
-                            else {
-                                item.url_image = ""
-                            }
-                        }
-
-                    }
-                })
+                }
+                else {
+                    item.url_image = ""
+                }
+            }
         }
     }
+
+    const response = readFile(__dirname + `/db/deaths/${i}/${j}.json`)
+    for (const item of response.data.events) {
+        if (item.url_image == "" || item.url_image == undefined) {
+            if (item.wikipedia.length > 0) {
+                try {
+                    let results = await google.scrape(`${item.wikipedia[0].title}`, 200)
+                    item.url_image = results[0].url;
+
+                    fs.writeFile(`src/db/deaths/${i}/${j}.json`, JSON.stringify(response.data, null, 4), (err) => {
+                        if (err) console.log(err);
+                    })
+                }
+                catch {
+                    (err) => {
+                        console.log(err);
+                    }
+                }
+            }
+            else {
+                item.url_image = ""
+            }
+        }
+    }
+
+    console.log('\nDatabase create with success');
 })
 
 
