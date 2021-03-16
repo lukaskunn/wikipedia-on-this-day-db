@@ -10,7 +10,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Titus_Labienus"
                 }
             ],
-            "description": "Titus Labienus, Roman tribune and general (b. 100 BC)"
+            "description": "Titus Labienus, Roman tribune and general (b. 100 BC)",
+            "url_image": "https://pbs.twimg.com/profile_images/444236546686713857/Bkk9553B_400x400.jpeg"
         },
         {
             "year": "45 BC",
@@ -20,7 +21,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Publius_Attius_Varus"
                 }
             ],
-            "description": "Publius Attius Varus, Roman governor of Africa"
+            "description": "Publius Attius Varus, Roman governor of Africa",
+            "url_image": "https://alchetron.com/cdn/publius-attius-varus-ceaa6fe4-23a9-44b6-b55a-3ed3194b1ad-resize-750.jpeg"
         },
         {
             "year": "180",
@@ -30,7 +32,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Marcus_Aurelius"
                 }
             ],
-            "description": "Marcus Aurelius, Roman emperor (b. 121)"
+            "description": "Marcus Aurelius, Roman emperor (b. 121)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/3/33/L%27Image_et_le_Pouvoir_-_Buste_cuirass%C3%A9_de_Marc_Aur%C3%A8le_ag%C3%A9_-_3.jpg"
         },
         {
             "year": "624",
@@ -44,7 +47,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Polytheism"
                 }
             ],
-            "description": "Amr ibn Hishām, Arab polytheist"
+            "description": "Amr ibn Hishām, Arab polytheist",
+            "url_image": "https://static.wikia.nocookie.net/totalwar-ar/images/9/90/Amr_ibn_Hisham.png/revision/latest?cb=20190529102245"
         },
         {
             "year": "659",
@@ -54,7 +58,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Gertrude_of_Nivelles"
                 }
             ],
-            "description": "Gertrude of Nivelles, Belgian nun and saint (b. 626)"
+            "description": "Gertrude of Nivelles, Belgian nun and saint (b. 626)",
+            "url_image": "https://i.etsystatic.com/5244023/r/il/66d1c6/1824074188/il_570xN.1824074188_kq0b.jpg"
         },
         {
             "year": "836",
@@ -68,7 +73,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Roman_Catholic_Diocese_of_Basel"
                 }
             ],
-            "description": "Haito, bishop of Basel"
+            "description": "Haito, bishop of Basel",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Haito.png"
         },
         {
             "year": "905",
@@ -82,7 +88,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Tang_dynasty"
                 }
             ],
-            "description": "Li Yu, prince of the Tang Dynasty"
+            "description": "Li Yu, prince of the Tang Dynasty",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Li_Yu_scth.jpg"
         },
         {
             "year": "1040",
@@ -92,7 +99,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Harold_Harefoot"
                 }
             ],
-            "description": "Harold Harefoot, English king (b. 1015)"
+            "description": "Harold Harefoot, English king (b. 1015)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Harold1_Harefoot_02.jpg"
         },
         {
             "year": "1058",
@@ -102,7 +110,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Lulach"
                 }
             ],
-            "description": "Lulach, King of Scotland"
+            "description": "Lulach, King of Scotland",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/King_Lulach_of_Scotland.png"
         },
         {
             "year": "1199",
@@ -112,7 +121,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Jocelin_of_Glasgow"
                 }
             ],
-            "description": "Jocelin of Glasgow, Scottish monk and bishop (b. 1130)"
+            "description": "Jocelin of Glasgow, Scottish monk and bishop (b. 1130)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Jocelin.JPG"
         },
         {
             "year": "1267",
@@ -122,7 +132,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Pierre_de_Montreuil"
                 }
             ],
-            "description": "Peter of Montereau, architect (b. c. 1200)"
+            "description": "Peter of Montereau, architect (b. c. 1200)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Hotel_de_ville_paris028.jpg"
         },
         {
             "year": "1270",
@@ -132,7 +143,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Philip_of_Montfort,_Lord_of_Tyre"
                 }
             ],
-            "description": "Philip of Montfort, Lord of Tyre"
+            "description": "Philip of Montfort, Lord of Tyre",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Armoiries_Montfort-Castres.svg/1200px-Armoiries_Montfort-Castres.svg.png"
         },
         {
             "year": "1272",
@@ -142,7 +154,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Emperor_Go-Saga"
                 }
             ],
-            "description": "Emperor Go-Saga of Japan (b. 1220)"
+            "description": "Emperor Go-Saga of Japan (b. 1220)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Emperor_Go-Saga.jpg"
         },
         {
             "year": "1361",
@@ -156,7 +169,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Mamluk_Sultanate_(Cairo)"
                 }
             ],
-            "description": "An-Nasir Hasan, Mamluk Sultan of Egypt (b. 1334/35)"
+            "description": "An-Nasir Hasan, Mamluk Sultan of Egypt (b. 1334/35)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mosque-Madrassa_of_Sultan_Hassan_3.jpg/220px-Mosque-Madrassa_of_Sultan_Hassan_3.jpg"
         },
         {
             "year": "1394",
@@ -166,7 +180,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Louis,_Count_of_Enghien"
                 }
             ],
-            "description": "Louis, Count of Enghien, Count of Conversano and Brienne"
+            "description": "Louis, Count of Enghien, Count of Conversano and Brienne",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Louis_Antoine%2C_Duke_of_Enghien.jpg/220px-Louis_Antoine%2C_Duke_of_Enghien.jpg"
         },
         {
             "year": "1516",
@@ -176,7 +191,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Giuliano_de%27_Medici,_Duke_of_Nemours"
                 }
             ],
-            "description": "Giuliano de' Medici, Duke of Nemours (b. 1479)"
+            "description": "Giuliano de' Medici, Duke of Nemours (b. 1479)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Raffaello%2C_giuliano_de%27_medici.jpg/1200px-Raffaello%2C_giuliano_de%27_medici.jpg"
         },
         {
             "year": "1527",
@@ -186,7 +202,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Rana_Sanga"
                 }
             ],
-            "description": "Rana Sanga, Indian ruler (b. 1484)"
+            "description": "Rana Sanga, Indian ruler (b. 1484)",
+            "url_image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201801/rana_sanga_2.jpeg?_nA56DJONFdttAvYrpy30KqDCJcL8mJf"
         },
         {
             "year": "1565",
@@ -196,7 +213,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Alexander_Ales"
                 }
             ],
-            "description": "Alexander Ales, Scottish theologian and academic (b. 1500)"
+            "description": "Alexander Ales, Scottish theologian and academic (b. 1500)",
+            "url_image": "https://www.tudorsociety.com/wp-content/uploads/2016/03/Alexander_Alessi_Alexius._Line_engraving_by_Ruffonus_1657_Wellcome_V0000125.jpg"
         },
         {
             "year": "1611",
@@ -206,7 +224,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Princess_Sophia_of_Sweden"
                 }
             ],
-            "description": "Princess Sophia of Sweden (b. 1547)"
+            "description": "Princess Sophia of Sweden (b. 1547)",
+            "url_image": "https://i.pinimg.com/originals/9b/3c/d0/9b3cd0b6f43a31116fa8adf64cba5c44.jpg"
         },
         {
             "year": "1620",
@@ -216,7 +235,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/John_Sarkander"
                 }
             ],
-            "description": "John Sarkander, Polish-Moravian priest and saint (b. 1576)"
+            "description": "John Sarkander, Polish-Moravian priest and saint (b. 1576)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Jan_Sarkander%2C_Macerata_1855.jpg"
         },
         {
             "year": "1640",
@@ -226,7 +246,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Philip_Massinger"
                 }
             ],
-            "description": "Philip Massinger, English playwright (b. 1583)"
+            "description": "Philip Massinger, English playwright (b. 1583)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Philip_Massinger.jpg"
         },
         {
             "year": "1649",
@@ -236,7 +257,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Gabriel_Lalemant"
                 }
             ],
-            "description": "Gabriel Lalemant, French missionary and saint (b. 1610)"
+            "description": "Gabriel Lalemant, French missionary and saint (b. 1610)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/SOJ_Saint_Gabriel-Lallemant.jpg"
         },
         {
             "year": "1680",
@@ -246,7 +268,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Fran%C3%A7ois_de_La_Rochefoucauld_(writer)"
                 }
             ],
-            "description": "François de La Rochefoucauld, French author (b. 1613)"
+            "description": "François de La Rochefoucauld, French author (b. 1613)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fran%C3%A7ois_de_La_Rochefoucauld.jpg/200px-Fran%C3%A7ois_de_La_Rochefoucauld.jpg"
         },
         {
             "year": "1704",
@@ -256,7 +279,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Menno_van_Coehoorn"
                 }
             ],
-            "description": "Menno van Coehoorn, Dutch soldier and engineer (b. 1641)"
+            "description": "Menno van Coehoorn, Dutch soldier and engineer (b. 1641)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Menno_Baron_van_Coehoorn_after_Caspar_Netscher.jpg"
         },
         {
             "year": "1715",
@@ -266,7 +290,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Gilbert_Burnet"
                 }
             ],
-            "description": "Gilbert Burnet, Scottish bishop and historian (b. 1643)"
+            "description": "Gilbert Burnet, Scottish bishop and historian (b. 1643)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gilbert_Burnet_by_John_Riley.jpg"
         },
         {
             "year": "1741",
@@ -276,7 +301,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Jean-Baptiste_Rousseau"
                 }
             ],
-            "description": "Jean-Baptiste Rousseau, French poet and playwright (b. 1671)"
+            "description": "Jean-Baptiste Rousseau, French poet and playwright (b. 1671)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Rousseau%2C_Jean-Baptiste_%28%D0%A0%D1%83%D1%81%D1%81%D0%BE%2C_%D0%96%D0%B0%D0%BD_%D0%91%D0%B0%D1%82%D0%B8%D1%81%D1%82%29.jpg"
         },
         {
             "year": "1764",
@@ -286,7 +312,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/George_Parker,_2nd_Earl_of_Macclesfield"
                 }
             ],
-            "description": "George Parker, 2nd Earl of Macclesfield, English astronomer and politician (b. 1695)"
+            "description": "George Parker, 2nd Earl of Macclesfield, English astronomer and politician (b. 1695)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/George_Parker%2C_2nd_Earl_of_Macclesfield.jpg/220px-George_Parker%2C_2nd_Earl_of_Macclesfield.jpg"
         },
         {
             "year": "1782",
@@ -296,7 +323,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Daniel_Bernoulli"
                 }
             ],
-            "description": "Daniel Bernoulli, Dutch-Swiss mathematician and physicist (b. 1700)"
+            "description": "Daniel Bernoulli, Dutch-Swiss mathematician and physicist (b. 1700)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/ETH-BIB-Bernoulli%2C_Daniel_%281700-1782%29-Portrait-Portr_10971.tif_%28cropped%29.jpg"
         },
         {
             "year": "1828",
@@ -306,7 +334,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/James_Edward_Smith"
                 }
             ],
-            "description": "James Edward Smith, English botanist and entomologist (b. 1759)"
+            "description": "James Edward Smith, English botanist and entomologist (b. 1759)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/James_Edward_Smith.jpg"
         },
         {
             "year": "1829",
@@ -316,7 +345,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Sophia_Albertina,_Abbess_of_Quedlinburg"
                 }
             ],
-            "description": "Princess Sophia Albertina of Sweden (b. 1753)"
+            "description": "Princess Sophia Albertina of Sweden (b. 1753)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/124-Sofia_Albertina-Svenska_Teatern_1.jpg"
         },
         {
             "year": "1830",
@@ -330,7 +360,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Minister_of_Defence_(France)"
                 }
             ],
-            "description": "Laurent de Gouvion Saint-Cyr, French general and politician, French Minister of War (b. 1764)"
+            "description": "Laurent de Gouvion Saint-Cyr, French general and politician, French Minister of War (b. 1764)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Laurent_de_Gouvion-Saint-Cyr.jpg"
         },
         {
             "year": "1846",
@@ -340,7 +371,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Friedrich_Bessel"
                 }
             ],
-            "description": "Friedrich Bessel, German astronomer, mathematician, and physicist (b. 1784)"
+            "description": "Friedrich Bessel, German astronomer, mathematician, and physicist (b. 1784)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Friedrich_Wilhelm_Bessel_%281839_painting%29.jpg"
         },
         {
             "year": "1849",
@@ -350,7 +382,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/William_II_of_the_Netherlands"
                 }
             ],
-            "description": "William II of the Netherlands (b. 1792)"
+            "description": "William II of the Netherlands (b. 1792)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/0/04/King_Willem_II.jpg"
         },
         {
             "year": "1853",
@@ -360,7 +393,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Christian_Doppler"
                 }
             ],
-            "description": "Christian Doppler, Austrian physicist and mathematician (b. 1803)"
+            "description": "Christian Doppler, Austrian physicist and mathematician (b. 1803)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Christian_Doppler.jpg"
         },
         {
             "year": "1871",
@@ -374,7 +408,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Chambers_Harrap"
                 }
             ],
-            "description": "Robert Chambers, Scottish geologist and publisher, co-founded Chambers Harrap (b. 1802)"
+            "description": "Robert Chambers, Scottish geologist and publisher, co-founded Chambers Harrap (b. 1802)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Robert_Chambers%2C_publisher%2C_ca1863.jpg/220px-Robert_Chambers%2C_publisher%2C_ca1863.jpg"
         },
         {
             "year": "1875",
@@ -384,7 +419,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Ferdinand_Laub"
                 }
             ],
-            "description": "Ferdinand Laub, Czech violinist and composer (b. 1832)"
+            "description": "Ferdinand Laub, Czech violinist and composer (b. 1832)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Laub.png"
         },
         {
             "year": "1893",
@@ -398,7 +434,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Prime_Minister_of_France"
                 }
             ],
-            "description": "Jules Ferry, French lawyer and politician, 44th Prime Minister of France (b. 1832)"
+            "description": "Jules Ferry, French lawyer and politician, 44th Prime Minister of France (b. 1832)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Julesferry.jpg"
         },
         {
             "year": "1917",
@@ -408,7 +445,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Franz_Brentano"
                 }
             ],
-            "description": "Franz Brentano, German philosopher and psychologist (b. 1838)"
+            "description": "Franz Brentano, German philosopher and psychologist (b. 1838)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Franz_Brentano.jpeg"
         },
         {
             "year": "1926",
@@ -418,7 +456,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Aleksei_Brusilov"
                 }
             ],
-            "description": "Aleksei Brusilov, Georgian-Russian general (b. 1853)"
+            "description": "Aleksei Brusilov, Georgian-Russian general (b. 1853)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/2/27/%D0%91%D1%80%D1%83%D1%81%D0%B8%D0%BB%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.jpg"
         },
         {
             "year": "1937",
@@ -436,7 +475,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Nobel_Peace_Prize"
                 }
             ],
-            "description": "Austen Chamberlain, English politician, Secretary of State for Foreign and Commonwealth Affairs, Nobel Prize laureate (b. 1863)"
+            "description": "Austen Chamberlain, English politician, Secretary of State for Foreign and Commonwealth Affairs, Nobel Prize laureate (b. 1863)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sir_%28Joseph%29_Austen_Chamberlain.jpg"
         },
         {
             "year": "1946",
@@ -446,7 +486,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Dai_Li"
                 }
             ],
-            "description": "Dai Li, Chinese general (b. 1897)"
+            "description": "Dai Li, Chinese general (b. 1897)",
+            "url_image": "https://static.wikia.nocookie.net/avatar/images/f/f8/Dai_Li_agentes.png/revision/latest?cb=20161107042157&path-prefix=pt-br"
         },
         {
             "year": "1949",
@@ -456,7 +497,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Aleksandra_Ekster"
                 }
             ],
-            "description": "Aleksandra Ekster, Russian-French painter and set designer (b. 1882)"
+            "description": "Aleksandra Ekster, Russian-French painter and set designer (b. 1882)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alexandra_Exter_Costume_design_for_Romeo_and_Juliette_1921.jpg/280px-Alexandra_Exter_Costume_design_for_Romeo_and_Juliette_1921.jpg"
         },
         {
             "year": "1956",
@@ -466,7 +508,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Fred_Allen"
                 }
             ],
-            "description": "Fred Allen, American actor, comedian, screenwriter, and author (b. 1894)"
+            "description": "Fred Allen, American actor, comedian, screenwriter, and author (b. 1894)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Fred_allen_1940s_NBC_photo.JPG"
         },
         {
             "year": "1956",
@@ -480,7 +523,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Nobel_Prize_in_Chemistry"
                 }
             ],
-            "description": "Irène Joliot-Curie, French physicist and chemist, Nobel Prize laureate (b. 1897)"
+            "description": "Irène Joliot-Curie, French physicist and chemist, Nobel Prize laureate (b. 1897)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Joliot-curie.jpg"
         },
         {
             "year": "1957",
@@ -494,7 +538,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/President_of_the_Philippines"
                 }
             ],
-            "description": "Ramon Magsaysay, Filipino captain and politician, 7th President of the Philippines (b. 1907)"
+            "description": "Ramon Magsaysay, Filipino captain and politician, 7th President of the Philippines (b. 1907)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ramon-Magsaysay-01.jpg"
         },
         {
             "year": "1958",
@@ -504,7 +549,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/John_Pius_Boland"
                 }
             ],
-            "description": "John Pius Boland, Irish tennis player and politician (b. 1870)"
+            "description": "John Pius Boland, Irish tennis player and politician (b. 1870)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/3/38/John_Pius_Boland.jpg"
         },
         {
             "year": "1958",
@@ -514,7 +560,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Bertha_De_Vriese"
                 }
             ],
-            "description": "Bertha De Vriese, Belgian physician (b. 1877)"
+            "description": "Bertha De Vriese, Belgian physician (b. 1877)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bertha_De_Vriese.jpg"
         },
         {
             "year": "1961",
@@ -524,7 +571,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Susanna_M._Salter"
                 }
             ],
-            "description": "Susanna M. Salter, American activist and politician (b. 1860)"
+            "description": "Susanna M. Salter, American activist and politician (b. 1860)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Susanna_Madora_Salter.jpg"
         },
         {
             "year": "1965",
@@ -534,7 +582,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Amos_Alonzo_Stagg"
                 }
             ],
-            "description": "Amos Alonzo Stagg, American football player and coach (b. 1862)"
+            "description": "Amos Alonzo Stagg, American football player and coach (b. 1862)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/AAStagg-1906.jpg"
         },
         {
             "year": "1974",
@@ -548,7 +597,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Jatiyo_Sangsad_Bhaban"
                 }
             ],
-            "description": "Louis Kahn, American architect and academic, designed Jatiyo Sangsad Bhaban (b. 1901)"
+            "description": "Louis Kahn, American architect and academic, designed Jatiyo Sangsad Bhaban (b. 1901)",
+            "url_image": "https://images.adsttc.com/media/images/5a8b/3a7e/f197/ccbe/1700/06c5/large_jpg/stringio.jpg?1519073913"
         },
         {
             "year": "1976",
@@ -558,7 +608,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Luchino_Visconti"
                 }
             ],
-            "description": "Luchino Visconti, Italian director and screenwriter (b. 1906)"
+            "description": "Luchino Visconti, Italian director and screenwriter (b. 1906)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Luchino_Visconti_1972.jpg"
         },
         {
             "year": "1981",
@@ -568,7 +619,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Paul_Dean_(baseball)"
                 }
             ],
-            "description": "Paul Dean, American baseball player (b. 1913)"
+            "description": "Paul Dean, American baseball player (b. 1913)",
+            "url_image": "http://sabr.org/sites/default/files/Dean-Paul.jpg"
         },
         {
             "year": "1983",
@@ -582,7 +634,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Nobel_Prize_in_Physiology_or_Medicine"
                 }
             ],
-            "description": "Haldan Keffer Hartline, American physiologist and academic, Nobel Prize laureate (b. 1903)"
+            "description": "Haldan Keffer Hartline, American physiologist and academic, Nobel Prize laureate (b. 1903)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Haldan_Keffer_Hartline_nobel.jpg/220px-Haldan_Keffer_Hartline_nobel.jpg"
         },
         {
             "year": "1983",
@@ -592,7 +645,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Louisa_E._Rhine"
                 }
             ],
-            "description": "Louisa E. Rhine, American botanist and parapsychologist (b. 1891)"
+            "description": "Louisa E. Rhine, American botanist and parapsychologist (b. 1891)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Louisa_E._Rhine.jpg"
         },
         {
             "year": "1990",
@@ -602,7 +656,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Capucine"
                 }
             ],
-            "description": "Capucine, French model and actress (b. 1928)"
+            "description": "Capucine, French model and actress (b. 1928)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Capucine_The_Pink_Panther.jpg"
         },
         {
             "year": "1992",
@@ -612,7 +667,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Grace_Stafford"
                 }
             ],
-            "description": "Grace Stafford, American actress (b. 1903)"
+            "description": "Grace Stafford, American actress (b. 1903)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Grace_Stafford_1958.jpg"
         },
         {
             "year": "1993",
@@ -622,7 +678,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Helen_Hayes"
                 }
             ],
-            "description": "Helen Hayes, American actress (b. 1900)"
+            "description": "Helen Hayes, American actress (b. 1900)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Promotional_photograph_of_Helen_Hayes.jpg/200px-Promotional_photograph_of_Helen_Hayes.jpg"
         },
         {
             "year": "1994",
@@ -632,7 +689,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Mai_Zetterling"
                 }
             ],
-            "description": "Mai Zetterling, Swedish-English actress and director (b. 1925)"
+            "description": "Mai Zetterling, Swedish-English actress and director (b. 1925)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Mai-zetterling-gullers.jpg"
         },
         {
             "year": "1996",
@@ -642,7 +700,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Ren%C3%A9_Cl%C3%A9ment"
                 }
             ],
-            "description": "René Clément, French director and screenwriter (b. 1913)"
+            "description": "René Clément, French director and screenwriter (b. 1913)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ren%C3%A9_Cl%C3%A9ment.jpg"
         },
         {
             "year": "1996",
@@ -652,7 +711,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Terry_Stafford"
                 }
             ],
-            "description": "Terry Stafford, American singer-songwriter (b. 1941)"
+            "description": "Terry Stafford, American singer-songwriter (b. 1941)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/en/7/77/Singer_Terry_L._Stafford.jpg"
         },
         {
             "year": "1997",
@@ -662,7 +722,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Jermaine_Stewart"
                 }
             ],
-            "description": "Jermaine Stewart, American singer-songwriter and dancer (b. 1957)"
+            "description": "Jermaine Stewart, American singer-songwriter and dancer (b. 1957)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/en/9/91/Jermaine_Stewart.jpg"
         },
         {
             "year": "1999",
@@ -672,7 +733,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Ernest_Gold_(composer)"
                 }
             ],
-            "description": "Ernest Gold, Austrian-American composer (b. 1921)"
+            "description": "Ernest Gold, Austrian-American composer (b. 1921)",
+            "url_image": "https://m.media-amazon.com/images/M/MV5BODBkMzAxZDUtZjIxYy00MjliLTg2YWMtOTVmMTI1NDEyZjdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg"
         },
         {
             "year": "1999",
@@ -682,7 +744,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Jean_Pierre-Bloch"
                 }
             ],
-            "description": "Jean Pierre-Bloch, French activist (b. 1905)"
+            "description": "Jean Pierre-Bloch, French activist (b. 1905)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jean_Pierre-Bloch_by_Olivier_Meyer.jpg"
         },
         {
             "year": "2002",
@@ -692,7 +755,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Rosetta_LeNoire"
                 }
             ],
-            "description": "Rosetta LeNoire, American actress and producer (b. 1911)"
+            "description": "Rosetta LeNoire, American actress and producer (b. 1911)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Rosetta_LeNoire.jpg"
         },
         {
             "year": "2002",
@@ -706,7 +770,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Minister_of_Defence_(Vietnam)"
                 }
             ],
-            "description": "Văn Tiến Dũng, Vietnamese general and politician, 6th Minister of Defence for Vietnam (b. 1917)"
+            "description": "Văn Tiến Dũng, Vietnamese general and politician, 6th Minister of Defence for Vietnam (b. 1917)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/vi/f/fb/Van_Tien_Dung.jpg"
         },
         {
             "year": "2002",
@@ -716,7 +781,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Sylvester_Weaver_(executive)"
                 }
             ],
-            "description": "Sylvester \"Pat\" Weaver, American television broadcaster and producer (b. 1908)"
+            "description": "Sylvester \"Pat\" Weaver, American television broadcaster and producer (b. 1908)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pat_Weaver_1989_%28cropped%29.jpg/120px-Pat_Weaver_1989_%28cropped%29.jpg"
         },
         {
             "year": "2005",
@@ -730,7 +796,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Canadian_High_Commissioner_to_the_United_Kingdom"
                 }
             ],
-            "description": "Royce Frith, Canadian lawyer, politician, and diplomat, Canadian High Commissioner to the United Kingdom (b. 1923)"
+            "description": "Royce Frith, Canadian lawyer, politician, and diplomat, Canadian High Commissioner to the United Kingdom (b. 1923)",
+            "url_image": "http://leasidelife.com/wp-content/uploads/2017/02/Frith.jpg"
         },
         {
             "year": "2005",
@@ -744,7 +811,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/United_States_Ambassador_to_the_Soviet_Union"
                 }
             ],
-            "description": "George F. Kennan, American historian and diplomat, United States Ambassador to the Soviet Union (b. 1904)"
+            "description": "George F. Kennan, American historian and diplomat, United States Ambassador to the Soviet Union (b. 1904)",
+            "url_image": "https://cdn.britannica.com/19/135819-050-90132806/George-F-Kennan-1947.jpg"
         },
         {
             "year": "2005",
@@ -754,7 +822,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Andre_Norton"
                 }
             ],
-            "description": "Andre Norton, American author (b. 1912)"
+            "description": "Andre Norton, American author (b. 1912)",
+            "url_image": "https://images.gr-assets.com/authors/1404046606p5/4766.jpg"
         },
         {
             "year": "2006",
@@ -764,7 +833,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Oleg_Cassini"
                 }
             ],
-            "description": "Oleg Cassini, French-American fashion designer (b. 1913)"
+            "description": "Oleg Cassini, French-American fashion designer (b. 1913)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Cassini_1962.jpg"
         },
         {
             "year": "2006",
@@ -774,7 +844,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Ray_Meyer"
                 }
             ],
-            "description": "Ray Meyer, American basketball player and coach (b. 1913)"
+            "description": "Ray Meyer, American basketball player and coach (b. 1913)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ray_Meyer.jpg"
         },
         {
             "year": "2006",
@@ -784,7 +855,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/%C4%B0stemihan_Tavilo%C4%9Flu"
                 }
             ],
-            "description": "İstemihan Taviloğlu, Turkish composer and educator (b. 1945)"
+            "description": "İstemihan Taviloğlu, Turkish composer and educator (b. 1945)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Istemihan_Taviloglu.jpg"
         },
         {
             "year": "2007",
@@ -798,7 +870,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Fortran"
                 }
             ],
-            "description": "John Backus, American mathematician and computer scientist, designed Fortran (b. 1924)"
+            "description": "John Backus, American mathematician and computer scientist, designed Fortran (b. 1924)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/John_Backus_2.jpg"
         },
         {
             "year": "2007",
@@ -808,7 +881,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Roger_Bennett_(musician)"
                 }
             ],
-            "description": "Roger Bennett, American singer-songwriter and pianist (b. 1959)"
+            "description": "Roger Bennett, American singer-songwriter and pianist (b. 1959)",
+            "url_image": "https://images.chattanoogan.com/2007/3/article.103767.large.jpg"
         },
         {
             "year": "2008",
@@ -822,7 +896,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/United_States_Ambassador_to_the_Netherlands"
                 }
             ],
-            "description": "Roland Arnall, French-American businessman and diplomat, 63rd United States Ambassador to the Netherlands (b. 1939)"
+            "description": "Roland Arnall, French-American businessman and diplomat, 63rd United States Ambassador to the Netherlands (b. 1939)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/RolandArnall.jpg/220px-RolandArnall.jpg"
         },
         {
             "year": "2009",
@@ -832,7 +907,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Clodovil_Hernandes"
                 }
             ],
-            "description": "Clodovil Hernandes, Brazilian television host and politician (b. 1937)"
+            "description": "Clodovil Hernandes, Brazilian television host and politician (b. 1937)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Clodovil30012007.jpg"
         },
         {
             "year": "2010",
@@ -842,7 +918,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Alex_Chilton"
                 }
             ],
-            "description": "Alex Chilton, American singer-songwriter, guitarist, and producer (b. 1950)"
+            "description": "Alex Chilton, American singer-songwriter, guitarist, and producer (b. 1950)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Big_Star_at_Hyde_Park_2_cropped.jpg"
         },
         {
             "year": "2010",
@@ -852,7 +929,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Sid_Fleischman"
                 }
             ],
-            "description": "Sid Fleischman, American author and screenwriter (b. 1920)"
+            "description": "Sid Fleischman, American author and screenwriter (b. 1920)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Sid_Fleischman.jpg/220px-Sid_Fleischman.jpg"
         },
         {
             "year": "2011",
@@ -862,7 +940,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Michael_Gough"
                 }
             ],
-            "description": "Michael Gough, English actor (b. 1916)"
+            "description": "Michael Gough, English actor (b. 1916)",
+            "url_image": "https://m.media-amazon.com/images/M/MV5BMjE1NDA3MjQzMV5BMl5BanBnXkFtZTcwOTc0MTM3NA@@._V1_UY1200_CR124,0,630,1200_AL_.jpg"
         },
         {
             "year": "2012",
@@ -872,7 +951,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Pope_Shenouda_III_of_Alexandria"
                 }
             ],
-            "description": "Pope Shenouda III of Alexandria (b. 1923)"
+            "description": "Pope Shenouda III of Alexandria (b. 1923)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Pope_Shenouda_III_of_Alexandria_by_Chuck_Kennedy_%28Official_White_House_Photostream%29.jpg/1200px-Pope_Shenouda_III_of_Alexandria_by_Chuck_Kennedy_%28Official_White_House_Photostream%29.jpg"
         },
         {
             "year": "2012",
@@ -882,7 +962,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Margaret_Whitlam"
                 }
             ],
-            "description": "Margaret Whitlam, Australian swimmer and author (b. 1919)"
+            "description": "Margaret Whitlam, Australian swimmer and author (b. 1919)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Margaret_Whitlam_1939.jpg/220px-Margaret_Whitlam_1939.jpg"
         },
         {
             "year": "2013",
@@ -892,7 +973,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/William_B._Caldwell_III"
                 }
             ],
-            "description": "William B. Caldwell III, American general (b. 1925)"
+            "description": "William B. Caldwell III, American general (b. 1925)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/4/48/MG_William_B._Caldwell%2C_III.jpg"
         },
         {
             "year": "2013",
@@ -902,7 +984,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Lawrence_Fuchs"
                 }
             ],
-            "description": "Lawrence Fuchs, American scholar and academic (b. 1927)"
+            "description": "Lawrence Fuchs, American scholar and academic (b. 1927)",
+            "url_image": "https://www.brandeis.edu/now/2013/march/images/fuchs620.jpg"
         },
         {
             "year": "2013",
@@ -912,7 +995,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/A.B.C._Whipple"
                 }
             ],
-            "description": "A.B.C. Whipple, American journalist and historian (b. 1918)"
+            "description": "A.B.C. Whipple, American journalist and historian (b. 1918)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/en/8/88/Cal_Whipple_Life_correspondant.jpg"
         },
         {
             "year": "2014",
@@ -922,7 +1006,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Marek_Gali%C5%84ski_(cyclist)"
                 }
             ],
-            "description": "Marek Galiński, Polish cyclist (b. 1974)"
+            "description": "Marek Galiński, Polish cyclist (b. 1974)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Marek_Galinski.jpg"
         },
         {
             "year": "2014",
@@ -932,7 +1017,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Joseph_Kerman"
                 }
             ],
-            "description": "Joseph Kerman, American musicologist and critic (b. 1924)"
+            "description": "Joseph Kerman, American musicologist and critic (b. 1924)",
+            "url_image": "https://senate.universityofcalifornia.edu/_files/inmemoriam/html/images/KERMAN.jpg"
         },
         {
             "year": "2014",
@@ -942,7 +1028,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Rachel_Lambert_Mellon"
                 }
             ],
-            "description": "Rachel Lambert Mellon, American gardener, philanthropist, art collector and political patron (b. 1910)"
+            "description": "Rachel Lambert Mellon, American gardener, philanthropist, art collector and political patron (b. 1910)",
+            "url_image": "https://static01.nyt.com/images/2014/03/17/us/MELLON-obit-web/MELLON-obit-web-superJumbo.jpg"
         },
         {
             "year": "2015",
@@ -952,7 +1039,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Frank_Perris"
                 }
             ],
-            "description": "Frank Perris, Canadian motorcycle racer (b. 1931)"
+            "description": "Frank Perris, Canadian motorcycle racer (b. 1931)",
+            "url_image": "https://www.ttracepics.com/p/419/frank-perris-hi-tac-suzuki-1971-senior-tt-13006311.jpg"
         },
         {
             "year": "2016",
@@ -962,7 +1050,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Meir_Dagan"
                 }
             ],
-            "description": "Meir Dagan, Israeli general (b. 1945)"
+            "description": "Meir Dagan, Israeli general (b. 1945)",
+            "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Meir-Dagan.png/220px-Meir-Dagan.png"
         },
         {
             "year": "2016",
@@ -972,7 +1061,8 @@
                     "wikipedia": "https://wikipedia.org/wiki/Zolt%C3%A1n_Kamondi"
                 }
             ],
-            "description": "Zoltán Kamondi, Hungarian director, producer, and screenwriter (b. 1960)"
+            "description": "Zoltán Kamondi, Hungarian director, producer, and screenwriter (b. 1960)",
+            "url_image": "https://assets.mubicdn.net/images/cast_member/127953/image-original.jpg?1517383731"
         }
     ]
 }
