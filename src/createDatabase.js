@@ -60,8 +60,8 @@ function createPath() {
 }
 
 async function getData() {
-    for (let i = 3; i < 4; i++) {
-        for (let j = 16; j < date[i] + 1; j++) {
+    for (let i = 5; i < 6; i++) {
+        for (let j = 3; j < date[i] + 1; j++) {
             await axios.get(`https://byabbe.se/on-this-day/${i}/${j}/events.json`)
                 .then(async function (response) {
                     var itensLen = response.data.events.length;
